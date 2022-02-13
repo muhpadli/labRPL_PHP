@@ -48,4 +48,6 @@ date_default_timezone_set('Asia/Jakarta');
 echo 'WIB : ' . date('d-m-Y H:i:s');
 echo "<br/>";
 date_default_timezone_set('Asia/Makassar');
+echo 'WITA : ' . date('d-m-Y H:i:s');
+date_default_timezone_set('Asia/Papua');
 echo 'WIT : ' . date('d-m-Y H:i:s');
