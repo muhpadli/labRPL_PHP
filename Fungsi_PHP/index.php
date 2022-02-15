@@ -38,5 +38,5 @@ function identitas_mahasiswa(string $nama, int $usia, string $alamat)
     echo "NIM : $usia<br/>";
     echo "Alamat : $alamat<br/>";
 }
-identitas_mahasiswa("Muh. Padli", "19", "Sirindu");
+identitas_mahasiswa("Muh. Padli", 19, "Sirindu");
 echo "<br/>";
